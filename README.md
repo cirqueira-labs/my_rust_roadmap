@@ -1,2 +1,8 @@
-# my_rust_roadmap
-My Rust learning roadmap
+# My Rust learning roadmap
+
+## Exercices 
+[x] Rustlings https://github.com/rust-lang/rustlings
+
+## Books
+
+## Online Training
